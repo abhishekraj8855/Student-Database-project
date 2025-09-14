@@ -1,0 +1,1711 @@
+name,age,marks,course,subject
+Ankit,22,85,Cyber Security,Cryptography
+Riya,21,90,AI,NLP
+Priya,24,95,Data science,General
+Aman,23,70,Cyber Security,Ethical
+Neha,22,88,Web development,General
+Divya,23,92,AI,Computer version
+Aman,24,78,IOT,Embeded System 
+Rahul,24,86,Cyber Security,Ethical
+Aarti,23,69,Cyber Security,Network Security
+Rahul,24,60,AI,Computer version
+Aman,25,74,Cyber Security,Cryptography
+Pooja,21,92,IOT,Embeded System 
+mohan,21,66,AI,NLP
+Divya,20,64,Web development,General
+Manish,25,75,Data science,General
+Priya,25,73,AI,Neural Networks
+Ankit,21,94,Cyber Security,Ethical
+Divya,23,76,Data science,General
+Ankit,24,86,Web development,General
+Sanjay,23,98,Web development,General
+Rohit,24,66,Web development,General
+mohan,22,73,Data science,General
+Rohit,22,83,Web development,General
+Riya,24,83,Data science,General
+Rahul,25,88,Data science,General
+Rahul,22,81,Cyber Security,Cryptography
+Priya,23,90,Data science,General
+Meena,23,66,IOT,Ardunio
+Neha,25,86,AI,Neural Networks
+Manish,24,77,Cyber Security,Network Security
+pooja,24,63,AI,NLP
+pooja,23,83,Data science,General
+mohan,24,83,Data science,General
+pooja,24,77,AI,Neural Networks
+Ankit,21,64,IOT,Embeded System 
+mohan,23,76,Web development,General
+Senha,20,67,IOT,Ardunio
+Pooja,25,66,Web development,General
+Simarn,22,95,IOT,Sensors
+Senha,23,63,Web development,General
+Priya,21,63,IOT,Embeded System 
+Ankit,20,91,Data science,General
+Manish,25,69,IOT,Sensors
+Rohit,20,89,Cyber Security,Ethical
+Pooja,25,76,Cyber Security,Ethical
+Divya,24,62,Data science,General
+Divya,21,89,AI,Computer version
+Rohit,22,73,Cyber Security,Network Security
+Riya,21,85,Web development,General
+Riya,24,99,Web development,General
+Riya,22,79,IOT,Embeded System 
+pooja,23,85,Data science,General
+Neha,25,94,Cyber Security,Network Security
+Raj,23,97,AI,NLP
+Aman,21,69,Data science,General
+Manish,22,72,IOT,Embeded System 
+Rohit,20,60,Data science,General
+Raj,25,62,Web development,General
+Rahul,22,98,IOT,Embeded System 
+Priya,23,85,AI,Computer version
+Senha,20,77,AI,Computer version
+pooja,20,92,IOT,Embeded System 
+Aarti,23,74,Data science,General
+pooja,22,77,Cyber Security,Ethical
+Pooja,24,68,IOT,Sensors
+Priya,25,72,Web development,General
+Senha,24,81,AI,Computer version
+Divya,20,88,AI,Neural Networks
+Priya,23,91,Web development,General
+pooja,21,70,Cyber Security,Network Security
+Sanjay,24,65,Cyber Security,Cryptography
+Neha,25,95,IOT,Embeded System 
+Divya,23,82,IOT,Sensors
+Senha,23,77,Cyber Security,Cryptography
+Priya,21,98,AI,Neural Networks
+Pooja,23,82,IOT,Sensors
+Riya,23,69,Cyber Security,Cryptography
+pooja,23,63,AI,NLP
+Manish,20,61,Web development,General
+Rahul,20,95,AI,Computer version
+Manish,21,83,AI,NLP
+Simarn,23,62,Cyber Security,Network Security
+Priya,22,60,Web development,General
+pooja,21,98,Web development,General
+Neha,25,87,Cyber Security,Cryptography
+Neha,23,81,Cyber Security,Cryptography
+Senha,22,83,Data science,General
+Meena,25,84,Data science,General
+Manish,20,78,Data science,General
+Divya,24,93,Data science,General
+mohan,22,73,Web development,General
+Manish,21,62,IOT,Sensors
+Raj,21,62,AI,Neural Networks
+mohan,23,65,IOT,Embeded System 
+Riya,22,74,IOT,Embeded System 
+Senha,23,65,IOT,Ardunio
+Meena,21,91,Web development,General
+Simarn,22,91,Cyber Security,Cryptography
+Rahul,21,77,Web development,General
+Sanjay,25,62,Web development,General
+Ankit,25,73,Web development,General
+Meena,23,74,Cyber Security,Network Security
+Meena,24,83,Web development,General
+Senha,25,97,Data science,General
+Neha,24,74,Web development,General
+Aarti,24,73,Data science,General
+mohan,20,64,IOT,Embeded System 
+mohan,20,91,Web development,General
+Riya,20,87,Cyber Security,Ethical
+Vikas,20,82,Cyber Security,Cryptography
+Rahul,23,63,Web development,General
+Rahul,20,69,AI,Computer version
+Rahul,23,64,AI,Neural Networks
+Neha,21,71,AI,NLP
+Simarn,21,76,Cyber Security,Cryptography
+Priya,20,74,AI,Neural Networks
+mohan,23,93,IOT,Embeded System 
+Vikas,25,83,AI,NLP
+Riya,20,68,Cyber Security,Network Security
+Sanjay,22,69,Web development,General
+Rohit,23,75,IOT,Embeded System 
+Senha,25,65,AI,Computer version
+Manish,23,73,Cyber Security,Network Security
+Meena,20,72,IOT,Sensors
+Pooja,22,96,Cyber Security,Ethical
+Priya,25,74,IOT,Ardunio
+Riya,20,66,Web development,General
+Raj,23,98,AI,Computer version
+Rohit,21,67,Data science,General
+Riya,25,73,Web development,General
+Rahul,24,78,AI,NLP
+Rohit,24,95,IOT,Sensors
+Sanjay,24,62,Web development,General
+Senha,21,78,AI,Neural Networks
+Ankit,20,79,Data science,General
+Aarti,22,75,Web development,General
+Simarn,25,85,Data science,General
+Rohit,21,82,Data science,General
+Aman,20,87,AI,Neural Networks
+Aman,25,88,Data science,General
+Ankit,25,71,Web development,General
+Pooja,20,66,AI,Neural Networks
+Riya,24,83,Web development,General
+pooja,25,96,Web development,General
+Neha,25,94,IOT,Ardunio
+Divya,25,72,IOT,Embeded System 
+Rohit,20,71,Web development,General
+Raj,22,99,Data science,General
+pooja,22,89,IOT,Ardunio
+Simarn,25,88,IOT,Sensors
+Ankit,20,82,Cyber Security,Network Security
+Pooja,20,91,AI,NLP
+Rohit,22,95,AI,Computer version
+Riya,22,72,Data science,General
+Aarti,20,85,AI,Computer version
+Neha,25,73,Web development,General
+Neha,23,70,Web development,General
+Priya,25,63,IOT,Embeded System 
+Riya,22,79,Web development,General
+Divya,21,99,IOT,Sensors
+Divya,23,90,AI,Neural Networks
+Raj,20,81,IOT,Sensors
+Sanjay,20,74,Web development,General
+Senha,20,65,IOT,Sensors
+Aman,22,91,Data science,General
+Priya,21,90,IOT,Embeded System 
+mohan,23,70,Web development,General
+Manish,20,99,IOT,Ardunio
+Neha,24,91,Web development,General
+Rohit,23,100,Data science,General
+Aman,23,99,Cyber Security,Ethical
+Divya,22,72,IOT,Ardunio
+Neha,24,94,Data science,General
+Riya,21,67,Cyber Security,Network Security
+Meena,24,76,AI,Computer version
+Pooja,20,82,IOT,Sensors
+Neha,23,87,Cyber Security,Ethical
+Pooja,23,76,AI,Computer version
+Simarn,25,87,Web development,General
+Riya,25,83,Data science,General
+Raj,23,72,AI,NLP
+Pooja,22,63,AI,Computer version
+Aman,20,89,Data science,General
+Simarn,21,84,Cyber Security,Network Security
+Meena,22,83,Web development,General
+Meena,25,85,IOT,Embeded System 
+Meena,22,83,AI,Neural Networks
+Aman,25,60,IOT,Embeded System 
+Aman,21,76,Web development,General
+Riya,24,62,Cyber Security,Ethical
+Manish,23,99,AI,NLP
+Rohit,22,95,IOT,Embeded System 
+Aman,22,72,AI,Computer version
+Divya,23,86,Data science,General
+Riya,22,70,Cyber Security,Network Security
+Neha,23,99,Web development,General
+Raj,22,73,IOT,Embeded System 
+Divya,25,73,Cyber Security,Cryptography
+Vikas,24,94,IOT,Embeded System 
+Vikas,21,92,Web development,General
+Aarti,22,69,AI,NLP
+Ankit,23,85,IOT,Embeded System 
+Rohit,23,86,Cyber Security,Ethical
+Sanjay,20,94,Cyber Security,Cryptography
+Meena,24,77,Cyber Security,Ethical
+Simarn,22,61,Web development,General
+pooja,25,93,Cyber Security,Network Security
+Neha,24,92,Web development,General
+Aman,20,84,AI,Neural Networks
+Manish,23,65,IOT,Embeded System 
+Simarn,20,81,Data science,General
+Raj,25,73,Data science,General
+Aarti,25,77,Web development,General
+Divya,25,71,Cyber Security,Network Security
+Vikas,21,95,Cyber Security,Ethical
+Simarn,25,76,Web development,General
+Senha,24,71,Web development,General
+Aman,24,61,Cyber Security,Cryptography
+Meena,21,95,Cyber Security,Network Security
+Pooja,21,85,IOT,Sensors
+Sanjay,25,98,AI,Computer version
+Rahul,22,61,AI,NLP
+mohan,25,81,IOT,Embeded System 
+Rahul,22,97,IOT,Ardunio
+Neha,22,67,Data science,General
+Ankit,25,72,IOT,Ardunio
+Pooja,25,82,Web development,General
+Neha,22,86,Web development,General
+Vikas,23,100,Data science,General
+mohan,22,76,Web development,General
+Divya,22,67,Web development,General
+Senha,22,86,Cyber Security,Cryptography
+Aarti,25,89,Web development,General
+Senha,24,100,Data science,General
+Pooja,22,95,Web development,General
+Priya,20,69,Web development,General
+Vikas,25,64,Data science,General
+Sanjay,21,100,IOT,Sensors
+Aman,25,93,AI,NLP
+Divya,25,68,Data science,General
+Vikas,22,85,Web development,General
+Raj,21,79,IOT,Ardunio
+mohan,22,84,Data science,General
+Manish,21,80,Data science,General
+Raj,20,85,AI,NLP
+Aman,23,74,Web development,General
+Pooja,22,98,AI,Computer version
+Priya,20,62,Cyber Security,Cryptography
+Rahul,21,62,Cyber Security,Cryptography
+Meena,23,97,Web development,General
+mohan,23,71,IOT,Embeded System 
+Neha,24,91,Cyber Security,Ethical
+Manish,23,99,Web development,General
+Divya,20,62,Web development,General
+Meena,23,85,Web development,General
+Simarn,22,73,AI,Neural Networks
+Simarn,21,77,Web development,General
+Riya,21,65,Data science,General
+Rahul,25,97,Web development,General
+Simarn,23,95,Web development,General
+Riya,25,87,Data science,General
+Simarn,20,77,AI,NLP
+Pooja,21,84,AI,Neural Networks
+Aarti,22,86,Cyber Security,Ethical
+Manish,20,91,Web development,General
+Rohit,22,63,Web development,General
+Senha,22,68,Cyber Security,Network Security
+Aarti,21,60,IOT,Sensors
+Rohit,20,69,Cyber Security,Network Security
+Raj,22,88,Web development,General
+Priya,25,75,Cyber Security,Cryptography
+Ankit,22,84,Cyber Security,Cryptography
+Aarti,23,98,Web development,General
+Divya,20,87,AI,Neural Networks
+Aarti,23,91,AI,NLP
+Vikas,23,69,AI,NLP
+Senha,24,76,IOT,Embeded System 
+Sanjay,20,82,Cyber Security,Ethical
+Manish,22,85,Data science,General
+Senha,21,78,IOT,Ardunio
+Sanjay,23,67,Web development,General
+Raj,20,94,Web development,General
+Pooja,23,72,Web development,General
+Sanjay,23,71,IOT,Ardunio
+Riya,24,85,Cyber Security,Ethical
+Raj,25,65,IOT,Sensors
+Raj,24,69,Web development,General
+Simarn,20,99,AI,NLP
+Rahul,23,86,Cyber Security,Ethical
+Priya,25,72,Cyber Security,Ethical
+Rahul,20,74,Cyber Security,Cryptography
+Aman,24,68,IOT,Ardunio
+Sanjay,21,69,IOT,Embeded System 
+Rohit,22,60,Cyber Security,Ethical
+Neha,25,66,Data science,General
+Neha,21,83,Cyber Security,Cryptography
+Manish,25,75,IOT,Embeded System 
+Sanjay,20,99,AI,NLP
+Rahul,24,68,AI,Computer version
+Neha,23,88,Web development,General
+Rohit,23,75,AI,Computer version
+Rohit,20,85,AI,NLP
+Pooja,24,84,Web development,General
+Aman,25,86,AI,Computer version
+Senha,20,89,Web development,General
+Divya,21,74,Data science,General
+Senha,20,86,IOT,Embeded System 
+Aman,20,89,Cyber Security,Cryptography
+pooja,24,66,Cyber Security,Cryptography
+Ankit,24,81,AI,Computer version
+Ankit,25,81,Cyber Security,Ethical
+Meena,20,88,Web development,General
+Manish,20,95,Cyber Security,Ethical
+Riya,25,69,Cyber Security,Cryptography
+Simarn,23,61,AI,NLP
+Manish,25,68,AI,Neural Networks
+Ankit,24,61,Web development,General
+Aman,24,67,IOT,Embeded System 
+Simarn,25,88,Data science,General
+Rohit,23,64,Web development,General
+Aarti,22,85,AI,Neural Networks
+Raj,22,93,IOT,Sensors
+Aarti,25,97,Data science,General
+Raj,24,79,AI,Neural Networks
+Ankit,23,72,Data science,General
+Neha,22,72,Web development,General
+Priya,20,78,IOT,Sensors
+Divya,21,92,AI,NLP
+Manish,21,83,IOT,Embeded System 
+Raj,22,97,Web development,General
+Simarn,24,83,Data science,General
+Pooja,25,79,IOT,Sensors
+Rohit,20,63,AI,NLP
+Aman,24,68,Data science,General
+Priya,23,90,Data science,General
+Rohit,25,65,Data science,General
+pooja,23,62,IOT,Sensors
+Manish,23,100,IOT,Ardunio
+Vikas,24,87,Web development,General
+Neha,22,93,IOT,Sensors
+Manish,21,100,Web development,General
+Rahul,22,80,Web development,General
+Simarn,23,91,IOT,Embeded System 
+Pooja,25,92,Web development,General
+Neha,21,92,IOT,Ardunio
+mohan,22,100,IOT,Sensors
+mohan,22,82,Web development,General
+Aarti,20,99,Cyber Security,Network Security
+pooja,20,75,Web development,General
+Pooja,20,92,Web development,General
+Meena,25,74,IOT,Embeded System 
+Rahul,25,94,Cyber Security,Cryptography
+Meena,24,92,Web development,General
+Rohit,23,97,IOT,Sensors
+Pooja,23,89,Web development,General
+Manish,21,70,Data science,General
+Raj,24,62,Data science,General
+Priya,20,75,Web development,General
+Sanjay,21,95,AI,Neural Networks
+Vikas,21,81,Web development,General
+Neha,25,66,Data science,General
+Rohit,21,70,Cyber Security,Network Security
+Priya,25,82,IOT,Ardunio
+Divya,21,67,Web development,General
+Raj,20,85,Cyber Security,Cryptography
+Senha,25,73,Cyber Security,Network Security
+Sanjay,25,83,IOT,Sensors
+pooja,22,90,IOT,Sensors
+Aarti,23,77,AI,Computer version
+Aarti,24,79,Web development,General
+Sanjay,23,89,IOT,Embeded System 
+Priya,22,76,Cyber Security,Cryptography
+Aman,22,85,IOT,Embeded System 
+Priya,22,99,Web development,General
+mohan,21,75,Web development,General
+Aman,25,80,Data science,General
+pooja,23,71,IOT,Embeded System 
+Aarti,25,76,Cyber Security,Cryptography
+Simarn,24,90,Web development,General
+Aman,24,88,AI,NLP
+Meena,24,95,Cyber Security,Network Security
+Pooja,21,92,Cyber Security,Network Security
+Sanjay,24,63,AI,Neural Networks
+Rohit,22,67,Cyber Security,Ethical
+Priya,25,60,Cyber Security,Ethical
+Riya,21,83,AI,NLP
+Ankit,22,74,Cyber Security,Network Security
+Aarti,23,65,Cyber Security,Cryptography
+Meena,20,78,Web development,General
+Sanjay,23,70,IOT,Embeded System 
+Rohit,22,87,Data science,General
+Simarn,20,70,Data science,General
+Raj,21,62,Web development,General
+Rahul,20,64,Cyber Security,Network Security
+Raj,23,85,Web development,General
+Vikas,22,75,Cyber Security,Ethical
+Rahul,21,91,AI,Computer version
+Meena,25,72,Data science,General
+Simarn,20,60,Cyber Security,Cryptography
+Ankit,25,64,Cyber Security,Ethical
+Rohit,25,67,Data science,General
+Pooja,23,98,Data science,General
+Divya,22,100,Cyber Security,Ethical
+Priya,22,91,AI,Computer version
+Neha,24,79,Data science,General
+Vikas,22,67,Cyber Security,Cryptography
+Neha,23,70,Cyber Security,Network Security
+Meena,25,67,IOT,Embeded System 
+Rahul,24,85,AI,Computer version
+Sanjay,23,68,Cyber Security,Cryptography
+Aarti,22,70,Data science,General
+Vikas,21,81,IOT,Sensors
+Vikas,21,78,IOT,Sensors
+pooja,22,82,AI,Neural Networks
+pooja,24,94,Cyber Security,Ethical
+Vikas,24,82,Web development,General
+Ankit,22,99,AI,Neural Networks
+Riya,25,70,Cyber Security,Cryptography
+pooja,25,66,Cyber Security,Cryptography
+Senha,20,83,IOT,Sensors
+Raj,23,72,IOT,Sensors
+Senha,20,76,Web development,General
+Aman,20,76,Data science,General
+Aman,21,84,IOT,Ardunio
+Aman,23,91,Cyber Security,Ethical
+Neha,24,80,AI,NLP
+Riya,23,82,Web development,General
+Riya,20,79,Data science,General
+Riya,22,92,Data science,General
+mohan,25,90,Web development,General
+pooja,25,91,Cyber Security,Cryptography
+Simarn,24,61,Web development,General
+mohan,25,61,AI,Computer version
+Vikas,21,67,IOT,Ardunio
+Pooja,25,88,Data science,General
+Manish,20,80,Web development,General
+Simarn,24,68,Web development,General
+Senha,20,68,IOT,Ardunio
+Rohit,24,87,IOT,Sensors
+pooja,22,93,AI,Computer version
+Neha,22,84,Cyber Security,Cryptography
+Vikas,25,67,AI,NLP
+Aman,20,84,Web development,General
+Neha,20,87,AI,Neural Networks
+Pooja,20,84,Web development,General
+Vikas,23,89,Cyber Security,Cryptography
+Vikas,20,89,Data science,General
+pooja,20,84,Data science,General
+Ankit,23,73,Data science,General
+Aman,20,66,Web development,General
+Vikas,23,72,AI,Computer version
+Raj,24,76,Data science,General
+Ankit,21,87,Web development,General
+Sanjay,24,61,Cyber Security,Ethical
+Rahul,25,79,IOT,Ardunio
+Sanjay,25,66,Data science,General
+Divya,25,80,Cyber Security,Cryptography
+Senha,25,72,AI,NLP
+Priya,21,87,IOT,Sensors
+Ankit,25,72,AI,Computer version
+Rahul,21,75,IOT,Ardunio
+Pooja,20,100,AI,Neural Networks
+Meena,21,62,Data science,General
+Divya,21,74,AI,Neural Networks
+Riya,25,74,Web development,General
+Rahul,25,97,Cyber Security,Cryptography
+Ankit,24,96,AI,Neural Networks
+Senha,20,62,AI,Neural Networks
+Rohit,22,75,Cyber Security,Network Security
+Manish,22,97,Web development,General
+Aarti,22,62,Cyber Security,Ethical
+Ankit,25,61,Web development,General
+Pooja,20,70,Web development,General
+Vikas,21,74,Web development,General
+Rahul,23,96,Data science,General
+Simarn,22,92,AI,Computer version
+Senha,20,98,Web development,General
+Senha,23,96,Data science,General
+Aman,23,96,IOT,Embeded System 
+Senha,20,98,Cyber Security,Network Security
+Simarn,22,90,Web development,General
+Sanjay,24,94,Data science,General
+Manish,20,63,IOT,Embeded System 
+Divya,23,61,Cyber Security,Network Security
+Meena,23,98,Cyber Security,Cryptography
+pooja,20,64,Cyber Security,Network Security
+Aman,20,62,IOT,Embeded System 
+Divya,24,89,Web development,General
+mohan,24,71,Web development,General
+Rahul,25,75,Cyber Security,Cryptography
+Aarti,24,61,IOT,Sensors
+pooja,22,64,Data science,General
+Meena,21,95,Web development,General
+Aarti,23,100,Data science,General
+Neha,23,98,IOT,Embeded System 
+Meena,21,80,Data science,General
+Raj,20,88,AI,NLP
+Ankit,22,79,Data science,General
+Neha,22,62,AI,NLP
+mohan,22,73,IOT,Ardunio
+Sanjay,25,94,IOT,Sensors
+Neha,23,94,AI,Neural Networks
+Priya,21,65,Cyber Security,Cryptography
+Neha,23,83,IOT,Embeded System 
+Rahul,22,86,Cyber Security,Network Security
+Meena,25,62,Web development,General
+mohan,22,74,IOT,Sensors
+Neha,25,64,IOT,Embeded System 
+Vikas,20,79,IOT,Sensors
+Priya,25,79,Cyber Security,Ethical
+pooja,20,89,AI,Computer version
+Aarti,24,65,IOT,Sensors
+Rahul,22,81,AI,NLP
+Simarn,22,66,IOT,Ardunio
+Rahul,25,88,Web development,General
+Meena,23,100,IOT,Embeded System 
+Meena,24,87,Web development,General
+Vikas,25,87,IOT,Sensors
+pooja,24,87,Data science,General
+Meena,23,88,Cyber Security,Network Security
+Meena,22,73,Data science,General
+Rohit,20,86,Cyber Security,Network Security
+pooja,25,77,IOT,Sensors
+Rahul,23,83,Web development,General
+Senha,23,72,Web development,General
+Meena,23,90,AI,NLP
+Sanjay,21,76,Cyber Security,Network Security
+Ankit,23,71,Cyber Security,Network Security
+Vikas,23,100,Cyber Security,Cryptography
+Rahul,20,96,Cyber Security,Cryptography
+Raj,22,88,Cyber Security,Cryptography
+Aarti,22,89,AI,Computer version
+Neha,22,95,Cyber Security,Network Security
+Senha,23,72,IOT,Sensors
+Senha,24,68,Cyber Security,Cryptography
+Rahul,21,72,AI,NLP
+Riya,23,98,AI,Neural Networks
+Priya,21,68,Web development,General
+Vikas,22,63,Cyber Security,Network Security
+Aman,22,76,Data science,General
+Raj,23,92,AI,Computer version
+Priya,22,79,Data science,General
+Senha,22,83,Data science,General
+Rohit,20,68,AI,Neural Networks
+Raj,23,84,IOT,Sensors
+Aman,23,65,AI,NLP
+Priya,21,72,Cyber Security,Cryptography
+mohan,25,83,Data science,General
+Meena,20,87,Data science,General
+Divya,20,66,AI,Computer version
+Priya,22,76,AI,Neural Networks
+Divya,25,88,IOT,Sensors
+Pooja,20,65,Data science,General
+Ankit,25,83,Data science,General
+Senha,22,89,Data science,General
+Raj,24,76,Data science,General
+Divya,21,79,Data science,General
+Ankit,22,68,IOT,Ardunio
+Riya,24,79,AI,NLP
+Rahul,25,82,AI,NLP
+Simarn,23,100,AI,Neural Networks
+Priya,21,63,AI,Neural Networks
+Priya,22,96,Web development,General
+mohan,22,80,Data science,General
+Neha,23,61,Web development,General
+Simarn,25,84,IOT,Embeded System 
+Rohit,20,100,Cyber Security,Ethical
+Rahul,21,96,IOT,Ardunio
+Manish,20,97,IOT,Ardunio
+Priya,25,93,AI,Computer version
+Simarn,24,89,Cyber Security,Ethical
+Pooja,20,79,AI,NLP
+pooja,20,65,Cyber Security,Cryptography
+Riya,25,94,Web development,General
+Rahul,23,67,AI,Neural Networks
+Senha,21,88,Data science,General
+Ankit,25,61,IOT,Embeded System 
+Ankit,21,71,Cyber Security,Network Security
+Rahul,21,60,AI,NLP
+Vikas,20,66,Cyber Security,Cryptography
+Manish,23,67,Cyber Security,Cryptography
+Rahul,21,97,Web development,General
+Manish,23,60,AI,Neural Networks
+Simarn,21,61,Data science,General
+pooja,20,98,Data science,General
+Vikas,22,96,AI,Neural Networks
+Rohit,24,64,Cyber Security,Network Security
+pooja,22,87,Web development,General
+mohan,22,99,Data science,General
+Simarn,25,73,Cyber Security,Ethical
+Neha,24,66,Data science,General
+Priya,21,61,Data science,General
+Riya,21,76,AI,Computer version
+Ankit,22,64,Web development,General
+Simarn,22,90,IOT,Embeded System 
+Simarn,23,61,Data science,General
+mohan,21,89,Web development,General
+Riya,25,64,Web development,General
+Manish,24,90,AI,Neural Networks
+Rahul,21,92,AI,Neural Networks
+pooja,21,83,AI,NLP
+Neha,25,71,Data science,General
+Rahul,22,68,IOT,Embeded System 
+Ankit,22,99,IOT,Embeded System 
+pooja,22,64,IOT,Ardunio
+Sanjay,24,81,Cyber Security,Ethical
+Rahul,20,99,Data science,General
+pooja,23,70,Web development,General
+Sanjay,21,97,Web development,General
+Simarn,20,81,IOT,Sensors
+pooja,25,64,IOT,Embeded System 
+Neha,22,97,Cyber Security,Cryptography
+Simarn,23,83,Cyber Security,Cryptography
+Senha,20,95,IOT,Ardunio
+mohan,20,79,Web development,General
+Sanjay,23,92,IOT,Sensors
+Vikas,24,77,AI,NLP
+Raj,20,68,Cyber Security,Network Security
+Manish,22,69,IOT,Sensors
+pooja,25,95,IOT,Sensors
+Rahul,22,68,Cyber Security,Cryptography
+Neha,24,77,Web development,General
+Sanjay,24,61,IOT,Ardunio
+Sanjay,20,71,IOT,Ardunio
+Rahul,22,79,AI,NLP
+Priya,20,86,Cyber Security,Cryptography
+Rahul,23,61,Cyber Security,Network Security
+Divya,20,90,IOT,Sensors
+Pooja,23,78,Web development,General
+Aarti,20,98,Data science,General
+Aarti,24,74,Data science,General
+Vikas,24,85,AI,Computer version
+Vikas,22,89,AI,NLP
+Rahul,25,69,AI,Computer version
+Sanjay,25,69,AI,Neural Networks
+mohan,22,88,IOT,Ardunio
+pooja,20,68,Web development,General
+Meena,20,92,Data science,General
+Aman,25,72,Web development,General
+Divya,23,97,AI,Neural Networks
+Divya,24,76,Web development,General
+pooja,22,78,Web development,General
+Aarti,23,75,Data science,General
+Aman,21,84,Web development,General
+Senha,22,84,Web development,General
+Meena,22,64,Cyber Security,Cryptography
+Riya,20,84,Cyber Security,Cryptography
+Rahul,20,84,AI,Neural Networks
+Rahul,23,81,Cyber Security,Ethical
+Aman,25,93,Data science,General
+mohan,22,89,AI,Computer version
+Pooja,25,92,AI,Neural Networks
+Riya,20,77,Cyber Security,Ethical
+Vikas,25,94,AI,Computer version
+Ankit,24,64,Data science,General
+Aarti,23,60,Data science,General
+Rohit,21,97,Cyber Security,Cryptography
+Priya,21,75,Cyber Security,Cryptography
+Ankit,25,92,IOT,Embeded System 
+Priya,23,82,IOT,Sensors
+Divya,22,70,Web development,General
+Aman,23,68,Data science,General
+Manish,25,73,IOT,Ardunio
+Sanjay,22,76,Cyber Security,Cryptography
+Raj,21,73,Data science,General
+Divya,23,97,Cyber Security,Network Security
+Divya,25,92,Web development,General
+Vikas,25,81,AI,NLP
+Senha,21,75,IOT,Embeded System 
+Divya,24,63,IOT,Ardunio
+Vikas,24,94,Cyber Security,Ethical
+Sanjay,22,71,AI,Neural Networks
+Simarn,24,85,Cyber Security,Network Security
+Sanjay,25,90,Cyber Security,Cryptography
+Aarti,24,71,Data science,General
+Rohit,20,83,Cyber Security,Network Security
+Ankit,24,77,AI,Computer version
+Vikas,22,83,IOT,Sensors
+Senha,24,76,Data science,General
+Manish,24,85,Web development,General
+Sanjay,23,61,IOT,Embeded System 
+Rahul,24,83,Data science,General
+Rohit,23,63,IOT,Embeded System 
+mohan,22,72,IOT,Sensors
+Vikas,24,99,IOT,Sensors
+Sanjay,20,72,Cyber Security,Cryptography
+Aarti,22,67,Cyber Security,Cryptography
+Raj,21,99,Web development,General
+pooja,21,81,AI,NLP
+Rahul,21,86,Web development,General
+pooja,25,100,Web development,General
+Meena,23,90,IOT,Embeded System 
+Riya,24,66,IOT,Embeded System 
+mohan,24,82,AI,Computer version
+Simarn,20,60,Web development,General
+Riya,20,93,AI,NLP
+Pooja,21,91,Data science,General
+Vikas,23,96,Web development,General
+Riya,23,96,IOT,Embeded System 
+Neha,20,79,AI,Computer version
+Vikas,23,70,Cyber Security,Network Security
+Aarti,20,89,Data science,General
+Divya,21,84,AI,Computer version
+Simarn,21,86,Web development,General
+Senha,23,68,Data science,General
+Neha,20,96,AI,NLP
+Senha,20,73,Web development,General
+Riya,21,76,IOT,Embeded System 
+Sanjay,22,65,Data science,General
+Raj,21,64,Data science,General
+pooja,22,85,IOT,Sensors
+Meena,20,62,AI,Neural Networks
+Neha,24,100,Cyber Security,Network Security
+Rahul,21,92,Data science,General
+Pooja,24,81,Cyber Security,Cryptography
+Ankit,20,77,IOT,Embeded System 
+Rohit,23,62,IOT,Ardunio
+Priya,25,89,AI,Computer version
+Manish,20,75,Web development,General
+Senha,23,100,Cyber Security,Ethical
+Manish,24,78,Web development,General
+Senha,22,76,AI,Computer version
+Raj,25,64,AI,Neural Networks
+Neha,25,93,AI,NLP
+Manish,21,74,Data science,General
+Aarti,23,67,Web development,General
+Simarn,20,79,Data science,General
+mohan,25,68,AI,Neural Networks
+Manish,22,60,IOT,Embeded System 
+Priya,23,69,Web development,General
+mohan,21,90,AI,Computer version
+Neha,21,83,IOT,Ardunio
+Priya,24,85,AI,Computer version
+Raj,24,66,Web development,General
+Priya,24,82,Data science,General
+Divya,21,81,Cyber Security,Network Security
+Aman,22,94,IOT,Embeded System 
+Rohit,23,68,AI,Computer version
+Sanjay,24,79,Web development,General
+Vikas,24,90,Data science,General
+Manish,20,76,AI,Neural Networks
+Priya,24,83,IOT,Embeded System 
+Ankit,23,70,Cyber Security,Cryptography
+Simarn,24,61,Data science,General
+Neha,22,74,Cyber Security,Network Security
+mohan,23,94,IOT,Embeded System 
+Neha,20,97,Data science,General
+Meena,21,95,Web development,General
+Priya,21,99,Cyber Security,Ethical
+Manish,20,84,Web development,General
+Manish,21,74,IOT,Ardunio
+Vikas,22,65,Cyber Security,Network Security
+Rahul,24,67,AI,Computer version
+Divya,25,90,Data science,General
+pooja,22,72,Cyber Security,Ethical
+Vikas,22,100,Web development,General
+Aman,21,62,Data science,General
+Neha,25,62,Cyber Security,Network Security
+Ankit,20,65,Data science,General
+Sanjay,23,96,Cyber Security,Cryptography
+Simarn,25,77,AI,Computer version
+Priya,21,98,IOT,Ardunio
+Riya,25,93,Data science,General
+Priya,23,74,Cyber Security,Network Security
+Raj,21,85,Web development,General
+Raj,21,93,Data science,General
+Meena,20,78,Web development,General
+Simarn,24,98,IOT,Sensors
+Aarti,25,93,IOT,Ardunio
+Aarti,22,72,AI,NLP
+Divya,20,88,AI,NLP
+Rahul,24,81,Cyber Security,Cryptography
+Simarn,20,96,Data science,General
+Meena,20,80,AI,NLP
+Aman,25,98,AI,Neural Networks
+pooja,24,86,IOT,Sensors
+Sanjay,25,79,Data science,General
+Aarti,21,96,IOT,Ardunio
+Senha,20,62,Data science,General
+Raj,20,69,Cyber Security,Network Security
+Rahul,22,63,Data science,General
+Aarti,21,74,AI,NLP
+Aman,22,67,Web development,General
+Sanjay,23,65,Data science,General
+Vikas,21,68,Data science,General
+Neha,24,68,AI,Neural Networks
+Manish,24,89,IOT,Embeded System 
+Priya,20,80,IOT,Sensors
+Raj,23,91,AI,Neural Networks
+mohan,24,64,Cyber Security,Ethical
+Neha,24,98,Cyber Security,Cryptography
+Manish,20,100,Data science,General
+Aman,22,83,Web development,General
+Meena,25,68,Web development,General
+Manish,24,70,AI,Neural Networks
+Rohit,22,63,IOT,Sensors
+Aman,20,87,Cyber Security,Cryptography
+Meena,23,70,Data science,General
+Simarn,21,78,Cyber Security,Ethical
+Vikas,24,78,Cyber Security,Network Security
+Neha,23,72,AI,Neural Networks
+Neha,25,81,Web development,General
+Rohit,25,69,Data science,General
+Riya,21,60,Data science,General
+Vikas,24,85,Data science,General
+Ankit,24,60,AI,NLP
+Meena,21,97,Web development,General
+Raj,25,92,IOT,Ardunio
+Vikas,21,73,Cyber Security,Cryptography
+Priya,23,94,Web development,General
+Divya,22,94,AI,Computer version
+Manish,23,85,Data science,General
+mohan,24,66,AI,Neural Networks
+Aarti,20,80,IOT,Ardunio
+Vikas,20,78,Cyber Security,Cryptography
+Manish,23,83,Cyber Security,Ethical
+Ankit,23,78,IOT,Ardunio
+Simarn,20,75,Data science,General
+Senha,24,83,Data science,General
+Ankit,20,77,IOT,Ardunio
+Simarn,22,90,Cyber Security,Ethical
+Vikas,24,85,Data science,General
+Aman,23,77,AI,Neural Networks
+Divya,22,90,IOT,Sensors
+Manish,21,62,Web development,General
+Aarti,21,90,Cyber Security,Cryptography
+Neha,24,95,Cyber Security,Cryptography
+Senha,20,91,Data science,General
+Ankit,24,67,Data science,General
+Rahul,20,86,IOT,Embeded System 
+Simarn,23,96,AI,Computer version
+pooja,20,65,Cyber Security,Network Security
+Raj,20,68,IOT,Ardunio
+Sanjay,23,93,Web development,General
+pooja,24,99,Web development,General
+Priya,23,72,Cyber Security,Network Security
+Priya,20,89,Web development,General
+Neha,23,96,Cyber Security,Ethical
+Neha,22,74,IOT,Sensors
+mohan,25,72,Data science,General
+Divya,22,68,Cyber Security,Ethical
+Divya,22,79,Data science,General
+Neha,21,71,Data science,General
+Divya,21,69,Data science,General
+Vikas,22,73,AI,NLP
+Aman,23,98,Cyber Security,Cryptography
+Aman,22,77,AI,NLP
+Ankit,21,83,Data science,General
+Raj,22,85,Web development,General
+Rohit,24,79,Data science,General
+pooja,22,91,Data science,General
+pooja,20,82,AI,NLP
+Manish,24,68,Data science,General
+mohan,24,64,Data science,General
+Divya,20,96,Web development,General
+Aman,23,98,IOT,Sensors
+Rahul,23,72,IOT,Sensors
+Priya,21,65,Web development,General
+Riya,21,67,Data science,General
+Manish,24,89,Web development,General
+Meena,25,70,IOT,Embeded System 
+Manish,20,76,Web development,General
+Pooja,22,69,Web development,General
+Aman,25,85,IOT,Sensors
+Vikas,21,67,AI,NLP
+Rahul,20,99,IOT,Sensors
+Sanjay,24,64,AI,Computer version
+Ankit,25,77,Data science,General
+Aman,20,70,Cyber Security,Cryptography
+Rahul,20,90,Cyber Security,Network Security
+Aarti,22,68,Data science,General
+Pooja,20,77,Web development,General
+Divya,25,63,Web development,General
+Meena,21,86,Cyber Security,Cryptography
+Vikas,24,93,IOT,Ardunio
+Ankit,24,66,Web development,General
+Ankit,22,60,Web development,General
+Manish,25,74,AI,NLP
+Neha,21,85,Cyber Security,Network Security
+Aman,23,78,Cyber Security,Ethical
+Aman,20,74,Data science,General
+Rohit,21,100,AI,Computer version
+Manish,24,83,IOT,Sensors
+Rohit,20,69,Data science,General
+Rahul,20,62,Cyber Security,Cryptography
+Ankit,23,66,Cyber Security,Cryptography
+Raj,23,82,IOT,Embeded System 
+Aarti,21,83,Cyber Security,Network Security
+Riya,25,99,Cyber Security,Ethical
+Simarn,21,86,IOT,Embeded System 
+Neha,25,81,IOT,Embeded System 
+Ankit,22,94,Cyber Security,Network Security
+Pooja,20,93,IOT,Sensors
+Divya,23,77,Data science,General
+Aman,20,97,AI,Computer version
+Meena,24,83,IOT,Sensors
+Simarn,21,93,IOT,Embeded System 
+mohan,21,75,Data science,General
+Manish,23,84,AI,Neural Networks
+Neha,23,82,Web development,General
+Simarn,23,92,AI,Computer version
+Divya,23,60,Data science,General
+Neha,25,92,AI,NLP
+mohan,22,93,Web development,General
+Priya,20,68,AI,NLP
+Divya,21,62,IOT,Embeded System 
+Ankit,24,69,IOT,Ardunio
+Divya,23,62,AI,Computer version
+Priya,20,87,IOT,Sensors
+pooja,24,91,Web development,General
+Aarti,22,82,Web development,General
+Sanjay,23,74,AI,NLP
+Meena,25,79,Web development,General
+Pooja,20,78,Cyber Security,Cryptography
+Senha,24,100,AI,NLP
+Aman,25,68,IOT,Sensors
+Simarn,20,88,Web development,General
+Manish,22,68,Cyber Security,Network Security
+Aarti,23,90,AI,NLP
+Vikas,23,72,Cyber Security,Ethical
+Rahul,24,77,AI,Neural Networks
+Rohit,24,66,Data science,General
+Manish,21,81,Cyber Security,Ethical
+Neha,23,84,Data science,General
+Riya,25,68,Data science,General
+Senha,23,90,Cyber Security,Ethical
+Neha,20,73,Cyber Security,Network Security
+Ankit,20,62,Cyber Security,Cryptography
+Simarn,20,72,Data science,General
+Meena,21,79,AI,Neural Networks
+mohan,21,92,Web development,General
+pooja,20,62,Data science,General
+Riya,23,100,AI,NLP
+Meena,20,68,AI,NLP
+Ankit,23,70,AI,Computer version
+Divya,23,78,Web development,General
+Neha,25,97,IOT,Embeded System 
+Senha,22,66,IOT,Embeded System 
+Raj,24,77,Web development,General
+Vikas,20,100,AI,Computer version
+Aarti,23,78,AI,Computer version
+Priya,24,61,IOT,Embeded System 
+Pooja,20,78,Web development,General
+Rohit,22,90,Cyber Security,Network Security
+Riya,23,68,Data science,General
+mohan,20,67,AI,Computer version
+Simarn,25,63,AI,Neural Networks
+Sanjay,23,63,Web development,General
+Manish,20,86,Cyber Security,Cryptography
+Manish,23,75,AI,Computer version
+Rahul,20,95,Data science,General
+Divya,23,91,Cyber Security,Ethical
+Neha,22,88,AI,Computer version
+Rahul,20,95,Cyber Security,Cryptography
+Vikas,21,77,Web development,General
+Manish,21,85,AI,Neural Networks
+Divya,25,66,IOT,Ardunio
+Rohit,24,95,Web development,General
+Sanjay,23,72,Web development,General
+Pooja,25,93,AI,NLP
+Sanjay,23,92,AI,Neural Networks
+Manish,24,94,AI,Neural Networks
+Meena,24,61,IOT,Embeded System 
+Ankit,21,60,IOT,Sensors
+Simarn,24,76,Data science,General
+Priya,24,92,Cyber Security,Network Security
+Meena,22,87,Web development,General
+Aman,22,90,Cyber Security,Ethical
+Sanjay,24,68,Cyber Security,Cryptography
+Aman,23,60,Cyber Security,Ethical
+Meena,20,62,AI,Neural Networks
+Priya,23,94,IOT,Ardunio
+Pooja,23,85,Data science,General
+Riya,21,67,Web development,General
+Riya,21,81,IOT,Embeded System 
+Meena,22,93,Data science,General
+Neha,24,86,Web development,General
+Rohit,25,76,Data science,General
+Simarn,25,72,AI,NLP
+Sanjay,23,60,Cyber Security,Network Security
+Meena,20,93,Web development,General
+Ankit,20,67,Data science,General
+Aarti,21,69,AI,NLP
+mohan,24,87,IOT,Sensors
+Vikas,25,93,Cyber Security,Cryptography
+Divya,20,91,Web development,General
+Aman,24,74,Data science,General
+pooja,24,74,Data science,General
+Aman,21,66,Data science,General
+Senha,20,84,Cyber Security,Ethical
+Rahul,22,74,Data science,General
+Senha,20,86,Cyber Security,Network Security
+Senha,23,95,Data science,General
+Neha,23,71,Cyber Security,Ethical
+Neha,24,86,Web development,General
+Aman,22,99,IOT,Ardunio
+Pooja,23,86,IOT,Ardunio
+Meena,25,80,Web development,General
+Rahul,24,79,IOT,Sensors
+Senha,20,61,Data science,General
+Rohit,25,75,IOT,Ardunio
+Simarn,22,91,AI,Neural Networks
+Aman,20,86,Cyber Security,Network Security
+Riya,23,69,IOT,Ardunio
+Ankit,21,98,AI,Computer version
+Meena,20,60,Cyber Security,Cryptography
+Priya,21,77,Cyber Security,Cryptography
+Manish,23,89,Cyber Security,Ethical
+Sanjay,20,70,Data science,General
+Rohit,25,97,Data science,General
+Aman,24,80,Web development,General
+Rahul,20,69,IOT,Embeded System 
+Priya,20,70,AI,Computer version
+Rahul,23,64,Data science,General
+pooja,20,93,IOT,Sensors
+Divya,20,65,IOT,Ardunio
+Riya,25,85,AI,Neural Networks
+Aarti,23,61,Web development,General
+Simarn,22,68,Web development,General
+Aman,22,83,AI,Neural Networks
+mohan,21,61,IOT,Embeded System 
+Aarti,22,100,AI,NLP
+Senha,21,91,AI,Computer version
+Neha,22,79,Web development,General
+Divya,25,92,Cyber Security,Ethical
+Rohit,23,88,Data science,General
+Divya,22,67,IOT,Ardunio
+Sanjay,22,65,Web development,General
+mohan,24,84,Web development,General
+Rohit,22,99,Data science,General
+Pooja,22,77,AI,NLP
+Vikas,21,93,IOT,Ardunio
+Rahul,20,77,Cyber Security,Ethical
+Ankit,21,61,Data science,General
+Neha,24,75,Web development,General
+Neha,20,84,Data science,General
+Pooja,20,71,IOT,Embeded System 
+Sanjay,21,85,IOT,Sensors
+Rohit,20,97,IOT,Ardunio
+Manish,20,88,Cyber Security,Network Security
+pooja,24,74,AI,Neural Networks
+Vikas,22,60,AI,Computer version
+Raj,21,84,IOT,Embeded System 
+Aman,24,89,AI,Computer version
+Meena,22,96,Cyber Security,Ethical
+pooja,20,76,Cyber Security,Ethical
+mohan,22,77,IOT,Embeded System 
+Simarn,25,68,Cyber Security,Network Security
+Vikas,20,81,Data science,General
+Senha,24,61,Web development,General
+Rohit,23,80,Cyber Security,Network Security
+Neha,23,94,Web development,General
+Priya,22,83,Cyber Security,Cryptography
+Senha,25,71,Cyber Security,Network Security
+Ankit,25,90,AI,NLP
+mohan,23,68,Cyber Security,Ethical
+Simarn,20,60,IOT,Ardunio
+Manish,23,63,Web development,General
+Rahul,23,90,IOT,Sensors
+Aarti,25,89,IOT,Embeded System 
+Raj,21,97,AI,Neural Networks
+Ankit,25,72,Web development,General
+Rahul,20,100,IOT,Sensors
+Meena,20,77,Data science,General
+Ankit,23,74,Web development,General
+pooja,25,78,AI,NLP
+Vikas,24,71,IOT,Embeded System 
+Riya,24,71,IOT,Ardunio
+Senha,22,78,AI,Neural Networks
+Pooja,25,100,Data science,General
+mohan,21,81,Data science,General
+Rahul,22,83,Data science,General
+Aarti,23,63,Data science,General
+Raj,20,92,Web development,General
+Pooja,22,67,IOT,Sensors
+Rohit,23,70,Data science,General
+Aman,24,77,Data science,General
+Simarn,21,100,IOT,Sensors
+Rohit,22,81,Web development,General
+Rohit,23,72,Cyber Security,Cryptography
+Ankit,23,79,Web development,General
+Meena,20,67,AI,Computer version
+Pooja,21,83,IOT,Embeded System 
+Manish,22,73,AI,Neural Networks
+Raj,23,74,Data science,General
+Vikas,22,81,IOT,Ardunio
+Manish,21,90,Cyber Security,Ethical
+Neha,24,94,Cyber Security,Cryptography
+Simarn,24,68,Web development,General
+Meena,21,71,Data science,General
+Senha,22,95,IOT,Embeded System 
+Ankit,20,85,IOT,Sensors
+Vikas,20,68,Web development,General
+Raj,23,71,Data science,General
+Simarn,25,85,Cyber Security,Ethical
+Senha,24,77,Cyber Security,Ethical
+Rohit,20,94,Cyber Security,Cryptography
+Riya,25,91,AI,Neural Networks
+Neha,20,89,Cyber Security,Ethical
+Ankit,24,62,Data science,General
+Aman,21,71,AI,NLP
+Rohit,22,95,IOT,Embeded System 
+Vikas,24,62,IOT,Embeded System 
+Meena,23,72,Cyber Security,Network Security
+Riya,22,65,AI,Computer version
+Sanjay,24,73,Web development,General
+mohan,25,90,Data science,General
+Neha,23,77,Web development,General
+Meena,24,92,AI,Neural Networks
+Aman,25,90,AI,Computer version
+Senha,20,98,IOT,Ardunio
+Ankit,20,68,IOT,Sensors
+Raj,20,95,Cyber Security,Cryptography
+Ankit,22,93,Cyber Security,Ethical
+Rohit,21,70,IOT,Embeded System 
+Vikas,23,92,IOT,Ardunio
+Neha,24,88,Data science,General
+Rohit,21,71,Cyber Security,Network Security
+Rahul,25,72,Data science,General
+Sanjay,22,90,Data science,General
+Meena,23,75,Web development,General
+Rohit,24,87,AI,NLP
+Aman,21,82,Web development,General
+Rohit,20,97,Web development,General
+Neha,25,90,Data science,General
+Riya,21,61,Web development,General
+Vikas,25,78,Data science,General
+Riya,21,84,Web development,General
+Aarti,21,85,Data science,General
+Priya,22,93,Web development,General
+Simarn,21,92,Cyber Security,Network Security
+Divya,21,62,Cyber Security,Ethical
+mohan,24,83,Cyber Security,Ethical
+Senha,21,71,AI,NLP
+Divya,24,70,IOT,Ardunio
+Senha,25,60,Data science,General
+Senha,20,68,AI,NLP
+Ankit,22,73,AI,Computer version
+mohan,23,67,Web development,General
+Sanjay,25,89,Data science,General
+Simarn,21,80,Web development,General
+Ankit,25,79,AI,Neural Networks
+Ankit,21,74,Cyber Security,Network Security
+Rahul,24,80,Web development,General
+Senha,23,96,IOT,Sensors
+mohan,22,62,Data science,General
+Rohit,25,100,AI,NLP
+Sanjay,24,97,IOT,Embeded System 
+Sanjay,22,93,AI,Computer version
+Aarti,20,72,AI,NLP
+Aarti,24,81,IOT,Embeded System 
+Manish,21,99,Web development,General
+Neha,25,72,AI,NLP
+Rohit,22,78,AI,NLP
+Rohit,21,61,IOT,Embeded System 
+Ankit,21,72,IOT,Embeded System 
+Simarn,22,99,AI,Neural Networks
+Priya,22,79,Web development,General
+Divya,24,88,IOT,Embeded System 
+Vikas,20,90,Data science,General
+Sanjay,25,88,Cyber Security,Network Security
+Riya,21,100,Data science,General
+Raj,24,69,Cyber Security,Ethical
+Rahul,21,80,AI,Computer version
+Vikas,24,63,AI,Computer version
+Sanjay,23,74,Data science,General
+Ankit,25,74,Data science,General
+pooja,20,73,IOT,Sensors
+Senha,21,70,AI,NLP
+Ankit,20,73,Data science,General
+Divya,21,87,IOT,Ardunio
+Simarn,24,62,Web development,General
+mohan,22,89,Cyber Security,Cryptography
+Sanjay,25,78,Cyber Security,Ethical
+Divya,23,81,IOT,Ardunio
+pooja,22,95,Cyber Security,Ethical
+Vikas,22,83,IOT,Ardunio
+mohan,21,70,Data science,General
+Rahul,25,78,Web development,General
+Pooja,24,69,Web development,General
+Sanjay,25,78,Data science,General
+Aman,20,100,Web development,General
+pooja,24,94,IOT,Embeded System 
+Rahul,21,74,AI,NLP
+Pooja,24,89,AI,Neural Networks
+pooja,25,93,Data science,General
+Vikas,24,66,AI,Neural Networks
+Manish,24,87,Web development,General
+Meena,23,61,Data science,General
+Sanjay,20,67,IOT,Sensors
+Senha,20,67,AI,Neural Networks
+Aarti,21,84,Cyber Security,Cryptography
+Aarti,22,66,AI,NLP
+Meena,21,69,AI,NLP
+mohan,20,78,Web development,General
+Neha,24,84,IOT,Ardunio
+Aman,20,84,AI,Neural Networks
+Sanjay,20,98,AI,Neural Networks
+Pooja,20,85,AI,Neural Networks
+Ankit,20,67,Web development,General
+Priya,25,82,AI,NLP
+Rohit,23,86,Data science,General
+Rohit,23,69,Data science,General
+Rohit,21,77,Cyber Security,Cryptography
+Meena,24,72,IOT,Ardunio
+Manish,23,70,Cyber Security,Ethical
+Vikas,20,99,Cyber Security,Cryptography
+Pooja,21,74,IOT,Embeded System 
+Sanjay,20,98,IOT,Ardunio
+Simarn,20,83,AI,Neural Networks
+Pooja,21,97,IOT,Embeded System 
+Priya,22,73,Web development,General
+Divya,24,65,AI,Computer version
+Senha,22,88,Web development,General
+Riya,25,68,IOT,Ardunio
+Rahul,24,77,Cyber Security,Cryptography
+Priya,25,95,Cyber Security,Cryptography
+Meena,20,77,AI,Computer version
+Raj,23,73,Web development,General
+Aman,22,76,Cyber Security,Ethical
+Aarti,23,96,Web development,General
+Pooja,23,67,Cyber Security,Cryptography
+Aarti,24,69,Data science,General
+Vikas,23,90,Web development,General
+Manish,22,74,Data science,General
+Neha,21,99,Data science,General
+Manish,20,71,AI,NLP
+Aarti,21,85,AI,NLP
+Manish,24,83,Cyber Security,Network Security
+Priya,20,64,AI,NLP
+mohan,21,77,Cyber Security,Network Security
+Raj,22,73,Data science,General
+Riya,21,64,Cyber Security,Network Security
+Raj,25,92,Cyber Security,Ethical
+Vikas,25,81,AI,Neural Networks
+Vikas,21,72,Cyber Security,Cryptography
+Sanjay,22,75,Cyber Security,Cryptography
+mohan,23,65,Web development,General
+Senha,23,72,Cyber Security,Network Security
+Raj,22,74,Web development,General
+Ankit,24,80,AI,NLP
+mohan,25,82,Web development,General
+Priya,22,97,IOT,Ardunio
+Ankit,22,78,Web development,General
+Neha,20,66,Web development,General
+Pooja,22,65,IOT,Ardunio
+Manish,24,93,IOT,Embeded System 
+Riya,23,61,Data science,General
+mohan,23,80,Cyber Security,Cryptography
+Priya,22,69,Cyber Security,Ethical
+Priya,20,90,IOT,Ardunio
+Ankit,21,66,Web development,General
+Priya,25,89,Web development,General
+Vikas,25,84,AI,Computer version
+Riya,24,74,Web development,General
+Pooja,20,77,Web development,General
+pooja,21,95,Cyber Security,Ethical
+Raj,20,70,Data science,General
+Aarti,24,92,Web development,General
+Senha,22,89,IOT,Ardunio
+Aarti,21,97,AI,Neural Networks
+Senha,25,60,AI,NLP
+mohan,24,97,IOT,Sensors
+Simarn,20,90,Web development,General
+Sanjay,23,94,Web development,General
+mohan,21,98,Data science,General
+Vikas,22,89,Web development,General
+Ankit,22,91,Data science,General
+Neha,23,84,Web development,General
+Divya,20,61,Cyber Security,Cryptography
+Raj,22,90,AI,NLP
+Divya,22,82,Cyber Security,Ethical
+Manish,24,86,Data science,General
+Neha,22,71,AI,Computer version
+Rohit,20,64,AI,Neural Networks
+Senha,20,83,Web development,General
+Senha,24,90,IOT,Embeded System 
+Vikas,23,87,Cyber Security,Network Security
+Neha,23,89,Cyber Security,Ethical
+Divya,20,85,Data science,General
+Riya,23,68,Cyber Security,Cryptography
+Aman,23,100,Cyber Security,Cryptography
+mohan,24,60,Data science,General
+Simarn,24,66,IOT,Embeded System 
+Rohit,25,80,AI,Computer version
+Vikas,24,95,AI,NLP
+Meena,23,88,Cyber Security,Network Security
+mohan,21,91,Web development,General
+Pooja,21,90,Web development,General
+Aman,22,100,AI,Neural Networks
+Rohit,23,72,Data science,General
+mohan,25,63,Data science,General
+Riya,22,81,IOT,Sensors
+Manish,23,60,Data science,General
+Rahul,23,81,Cyber Security,Cryptography
+Pooja,24,90,AI,NLP
+Senha,20,73,AI,NLP
+Raj,22,84,IOT,Sensors
+Simarn,25,63,Data science,General
+Aman,25,96,Cyber Security,Cryptography
+Aarti,23,63,IOT,Ardunio
+Ankit,21,82,Cyber Security,Cryptography
+Raj,20,84,Web development,General
+Ankit,23,81,Cyber Security,Network Security
+Manish,20,60,Web development,General
+Sanjay,20,79,Cyber Security,Network Security
+Senha,25,75,IOT,Embeded System 
+Riya,21,89,AI,Neural Networks
+Sanjay,22,65,Data science,General
+Rahul,23,95,Cyber Security,Cryptography
+Ankit,25,66,Data science,General
+Simarn,23,67,Web development,General
+Meena,23,86,Web development,General
+Aman,23,71,Data science,General
+Riya,20,78,Web development,General
+Riya,20,77,Cyber Security,Ethical
+Pooja,24,93,IOT,Sensors
+Rohit,23,95,Web development,General
+Aarti,21,63,IOT,Ardunio
+Pooja,20,72,Data science,General
+mohan,21,85,Web development,General
+pooja,23,73,Web development,General
+pooja,20,67,Data science,General
+Divya,25,84,AI,Neural Networks
+Simarn,25,63,Web development,General
+Sanjay,21,77,IOT,Ardunio
+mohan,25,83,AI,NLP
+Sanjay,21,63,AI,NLP
+Aarti,24,80,Cyber Security,Cryptography
+Ankit,20,99,Web development,General
+Pooja,22,68,AI,NLP
+Sanjay,21,78,IOT,Ardunio
+Vikas,24,70,IOT,Sensors
+pooja,20,76,AI,Neural Networks
+Manish,20,76,IOT,Embeded System 
+Rahul,22,92,Web development,General
+Meena,24,67,Data science,General
+Aarti,23,76,Web development,General
+Simarn,23,81,Data science,General
+pooja,20,88,AI,Neural Networks
+Aarti,21,60,IOT,Ardunio
+Raj,24,71,Data science,General
+Neha,20,95,Data science,General
+Divya,20,93,AI,NLP
+Sanjay,22,69,Cyber Security,Cryptography
+pooja,21,75,Web development,General
+Pooja,22,64,Data science,General
+Raj,20,92,IOT,Sensors
+Vikas,20,96,Data science,General
+pooja,22,100,Web development,General
+Meena,25,79,AI,Neural Networks
+Priya,21,78,Cyber Security,Ethical
+Rahul,24,93,Web development,General
+Neha,22,82,Web development,General
+pooja,22,62,Cyber Security,Cryptography
+Sanjay,22,95,Web development,General
+pooja,23,85,Web development,General
+Raj,20,69,AI,NLP
+Senha,21,74,Cyber Security,Network Security
+Simarn,24,90,IOT,Embeded System 
+pooja,20,67,Cyber Security,Network Security
+Manish,25,91,Web development,General
+Divya,22,73,Cyber Security,Cryptography
+Neha,25,67,Web development,General
+Vikas,20,98,Web development,General
+Meena,24,67,Web development,General
+Rohit,21,62,IOT,Ardunio
+Aman,22,93,Cyber Security,Network Security
+Manish,21,78,Data science,General
+Ankit,23,100,IOT,Ardunio
+Ankit,21,85,AI,Neural Networks
+Divya,25,60,AI,Neural Networks
+Aman,21,65,Web development,General
+Aarti,21,96,IOT,Embeded System 
+Riya,20,68,Data science,General
+Divya,24,93,Cyber Security,Network Security
+Priya,24,69,AI,NLP
+Sanjay,25,74,Data science,General
+Rohit,23,97,Web development,General
+Aman,25,89,Web development,General
+Senha,23,69,Data science,General
+Rohit,24,64,Web development,General
+Vikas,20,83,IOT,Ardunio
+Senha,22,80,Web development,General
+pooja,25,70,Cyber Security,Cryptography
+Simarn,25,79,AI,Computer version
+Priya,23,91,Web development,General
+Aman,23,92,IOT,Sensors
+Neha,20,91,AI,NLP
+Aman,22,99,Cyber Security,Cryptography
+Aman,20,76,AI,Computer version
+Sanjay,23,95,AI,NLP
+Sanjay,20,88,Web development,General
+Neha,25,64,Data science,General
+pooja,25,79,IOT,Embeded System 
+Pooja,25,76,Cyber Security,Ethical
+Aarti,21,98,IOT,Ardunio
+Priya,20,62,AI,Computer version
+Sanjay,20,80,AI,Neural Networks
+Meena,24,79,Data science,General
+Manish,23,96,IOT,Embeded System 
+Riya,20,96,Data science,General
+Pooja,24,65,AI,Computer version
+Priya,21,60,IOT,Ardunio
+Rahul,20,61,IOT,Embeded System 
+Riya,20,70,Data science,General
+Manish,23,93,Data science,General
+Senha,22,93,IOT,Ardunio
+Aarti,20,70,Web development,General
+Manish,20,85,Web development,General
+Rahul,21,66,AI,NLP
+Riya,22,94,Data science,General
+Raj,23,85,Data science,General
+Raj,21,83,Cyber Security,Cryptography
+Sanjay,20,60,Web development,General
+Rohit,23,87,IOT,Embeded System 
+Manish,23,94,IOT,Ardunio
+Meena,23,67,Data science,General
+pooja,20,64,Data science,General
+Divya,24,100,Web development,General
+Priya,23,65,Data science,General
+Raj,25,98,IOT,Sensors
+pooja,22,81,Cyber Security,Network Security
+Sanjay,21,85,IOT,Ardunio
+Sanjay,24,94,Cyber Security,Cryptography
+Riya,21,92,Data science,General
+Aman,24,71,Cyber Security,Cryptography
+pooja,22,92,AI,NLP
+Manish,25,67,AI,NLP
+Sanjay,23,68,Data science,General
+Simarn,23,96,AI,NLP
+Priya,23,100,AI,NLP
+pooja,20,71,AI,Neural Networks
+Sanjay,20,69,IOT,Sensors
+Manish,21,98,IOT,Ardunio
+Riya,24,97,Cyber Security,Network Security
+Raj,22,68,Cyber Security,Network Security
+Raj,24,72,Cyber Security,Ethical
+Vikas,22,82,AI,Computer version
+Neha,22,88,IOT,Sensors
+Pooja,22,78,Web development,General
+Riya,21,99,Cyber Security,Network Security
+Raj,25,74,Web development,General
+Priya,24,89,AI,Computer version
+Sanjay,21,82,IOT,Ardunio
+Neha,24,74,Data science,General
+Aman,24,97,Cyber Security,Cryptography
+mohan,24,83,Web development,General
+Vikas,24,79,Web development,General
+Ankit,24,68,Cyber Security,Cryptography
+Aarti,24,71,Data science,General
+Riya,25,73,Web development,General
+Vikas,23,96,AI,Computer version
+Divya,24,67,Web development,General
+Pooja,20,84,Data science,General
+Priya,25,98,IOT,Ardunio
+Divya,21,65,Web development,General
+Divya,24,95,IOT,Embeded System 
+Vikas,21,86,AI,Computer version
+Divya,24,90,Cyber Security,Cryptography
+Pooja,23,77,Web development,General
+Neha,23,72,IOT,Embeded System 
+pooja,25,94,IOT,Sensors
+Rahul,24,83,IOT,Ardunio
+Manish,20,61,AI,NLP
+Manish,21,85,IOT,Embeded System 
+Rohit,23,93,Web development,General
+Ankit,23,82,Web development,General
+Divya,24,70,Web development,General
+Aarti,22,66,Web development,General
+Raj,20,88,Web development,General
+Raj,24,90,Cyber Security,Network Security
+Priya,23,66,Web development,General
+Neha,23,88,AI,Neural Networks
+Rahul,25,96,IOT,Sensors
+Vikas,21,83,Cyber Security,Cryptography
+Sanjay,22,73,IOT,Embeded System 
+Meena,24,73,Web development,General
+Sanjay,25,90,AI,NLP
+Meena,24,67,AI,Neural Networks
+Pooja,24,69,IOT,Embeded System 
+Manish,24,90,Web development,General
+Rohit,20,89,AI,Computer version
+Pooja,20,97,Cyber Security,Ethical
+Manish,23,84,IOT,Embeded System 
+Simarn,22,69,Data science,General
+Aman,24,88,Cyber Security,Network Security
+Aarti,23,82,Web development,General
+Pooja,24,73,IOT,Embeded System 
+Sanjay,23,73,Cyber Security,Cryptography
+Rohit,22,85,Web development,General
+Sanjay,25,95,IOT,Embeded System 
+Simarn,20,80,Cyber Security,Cryptography
+Divya,21,99,AI,NLP
+Divya,25,83,IOT,Ardunio
+Divya,23,86,AI,Neural Networks
+Neha,24,81,Web development,General
+Senha,25,91,AI,Computer version
+Meena,24,88,IOT,Embeded System 
+Senha,22,97,IOT,Embeded System 
+Raj,23,92,Web development,General
+Aman,25,61,Web development,General
+Rohit,25,65,AI,Neural Networks
+Divya,24,76,Web development,General
+Neha,23,72,AI,Computer version
+pooja,22,73,Web development,General
+Pooja,23,68,AI,NLP
+Rahul,24,93,IOT,Ardunio
+Pooja,21,98,AI,Computer version
+Aarti,20,76,Data science,General
+Simarn,22,91,IOT,Sensors
+Aman,23,87,IOT,Embeded System 
+Rohit,20,66,AI,Neural Networks
+Aman,23,78,Web development,General
+Sanjay,24,96,Cyber Security,Network Security
+Aman,25,63,Web development,General
+Ankit,23,85,IOT,Sensors
+Neha,21,61,IOT,Ardunio
+pooja,24,93,Web development,General
+Meena,24,75,IOT,Embeded System 
+Priya,22,95,Web development,General
+Aarti,24,92,AI,Neural Networks
+Aarti,20,82,Web development,General
+Rohit,22,75,IOT,Ardunio
+Neha,20,93,AI,Computer version
+Aarti,24,94,Web development,General
+Raj,22,72,AI,Neural Networks
+Pooja,21,100,AI,NLP
+Sanjay,23,85,Data science,General
+Vikas,20,69,Data science,General
+mohan,24,78,Web development,General
+Ankit,23,85,Data science,General
+Aarti,25,67,Cyber Security,Network Security
+Ankit,25,81,IOT,Ardunio
+Riya,20,67,AI,NLP
+Priya,25,98,Data science,General
+Meena,24,78,AI,NLP
+Aman,23,72,Data science,General
+Priya,22,80,AI,Neural Networks
+Manish,20,75,IOT,Embeded System 
+Rohit,24,67,Data science,General
+Senha,23,70,Data science,General
+Divya,20,97,IOT,Ardunio
+Neha,24,88,Web development,General
+Meena,21,76,AI,Neural Networks
+Divya,21,93,IOT,Embeded System 
+Rahul,25,93,Web development,General
+Ankit,22,83,Data science,General
+Vikas,23,88,AI,Neural Networks
+Simarn,20,93,Data science,General
+Meena,25,77,Web development,General
+Meena,21,83,Cyber Security,Ethical
+Sanjay,22,77,Data science,General
+Ankit,23,79,Cyber Security,Network Security
+Meena,24,91,Cyber Security,Network Security
+Senha,21,97,AI,Neural Networks
+Ankit,22,79,Cyber Security,Cryptography
+Aarti,20,98,AI,Neural Networks
+pooja,23,99,Cyber Security,Network Security
+Manish,23,87,Data science,General
+Neha,25,88,Cyber Security,Cryptography
+Pooja,23,88,Web development,General
+Riya,23,78,Data science,General
+mohan,23,91,Data science,General
+Rohit,20,73,IOT,Ardunio
+Pooja,21,97,AI,NLP
+Pooja,25,62,AI,Computer version
+Senha,25,64,IOT,Embeded System 
+Aman,22,66,AI,NLP
+Neha,22,100,Cyber Security,Cryptography
+Divya,20,92,AI,NLP
+Raj,23,69,Web development,General
+Aman,20,82,Data science,General
+Rahul,20,91,AI,Neural Networks
+Senha,25,70,AI,Computer version
+Rohit,22,61,Data science,General
+Senha,20,64,Web development,General
+mohan,20,77,Web development,General
+Vikas,25,67,Web development,General
+Simarn,20,87,IOT,Embeded System 
+Simarn,25,95,Data science,General
+Raj,20,95,Web development,General
+Pooja,21,100,Cyber Security,Cryptography
+Riya,20,93,Data science,General
+mohan,23,89,IOT,Embeded System 
+Pooja,23,72,AI,Neural Networks
+Priya,22,74,Data science,General
+Rohit,21,76,IOT,Ardunio
+Vikas,24,64,Web development,General
+Priya,21,89,IOT,Ardunio
+Raj,23,70,Data science,General
+Manish,23,78,Web development,General
+Ankit,22,96,Cyber Security,Network Security
+Meena,24,94,AI,Neural Networks
+Ankit,21,75,AI,Computer version
+Simarn,23,68,IOT,Ardunio
+Vikas,24,71,Web development,General
+Divya,23,95,Web development,General
+Sanjay,23,78,Data science,General
+Sanjay,21,62,IOT,Embeded System 
+Neha,23,65,Cyber Security,Network Security
+Rohit,20,80,Cyber Security,Network Security
+Rahul,23,89,IOT,Sensors
+Senha,20,96,Data science,General
+Pooja,24,76,Cyber Security,Cryptography
+Neha,22,89,IOT,Sensors
+pooja,23,82,Data science,General
+Sanjay,23,79,Data science,General
+Ankit,24,85,Cyber Security,Ethical
+Senha,23,62,Web development,General
+Aarti,21,85,IOT,Ardunio
+Ankit,23,81,Cyber Security,Network Security
+Priya,23,70,Cyber Security,Network Security
+Raj,22,75,Data science,General
+Senha,24,98,IOT,Sensors
+Aman,24,70,Data science,General
+Sanjay,22,73,IOT,Embeded System 
+Neha,24,77,Data science,General
+Riya,23,75,IOT,Sensors
+pooja,23,90,Web development,General
+Divya,24,76,AI,Neural Networks
+Rahul,25,68,IOT,Embeded System 
+pooja,21,73,Data science,General
+Aman,21,87,AI,Neural Networks
+Priya,21,100,Web development,General
+Simarn,20,87,Data science,General
+Simarn,24,94,Data science,General
+Pooja,23,80,Web development,General
+Meena,21,68,Data science,General
+Sanjay,24,99,Data science,General
+Pooja,25,81,AI,Computer version
+mohan,22,70,Data science,General
+Riya,23,99,Web development,General
+Meena,23,68,Cyber Security,Ethical
+Neha,23,75,Data science,General
+Priya,22,60,Web development,General
+Senha,24,75,Data science,General
+Aman,22,82,IOT,Sensors
+Neha,23,89,IOT,Sensors
+Aarti,23,70,Web development,General
+Senha,21,82,IOT,Ardunio
+Sanjay,25,73,IOT,Embeded System 
+Sanjay,20,67,Data science,General
+Manish,21,77,Data science,General
+Vikas,24,79,AI,NLP
+Rahul,21,86,Data science,General
+Priya,25,83,Cyber Security,Cryptography
+Rohit,25,61,Cyber Security,Ethical
+Simarn,20,63,IOT,Ardunio
+Divya,24,82,Cyber Security,Network Security
+Neha,24,74,Cyber Security,Ethical
+Ankit,25,66,IOT,Embeded System 
+Ankit,22,78,Cyber Security,Ethical
+Rohit,23,68,AI,Computer version
+Simarn,21,82,AI,Neural Networks
+Ankit,20,93,IOT,Embeded System 
+Rohit,22,69,IOT,Embeded System 
+Neha,24,70,AI,Computer version
+Vikas,22,76,Web development,General
+Simarn,22,67,Cyber Security,Cryptography
+Divya,20,60,AI,NLP
+Rohit,21,69,Data science,General
+Priya,21,81,IOT,Sensors
+Rahul,22,60,Data science,General
+Meena,25,70,Web development,General
+Rahul,23,70,Cyber Security,Cryptography
+Manish,20,72,Cyber Security,Cryptography
+Senha,23,95,IOT,Sensors
+Simarn,24,65,Data science,General
+Ankit,22,92,AI,NLP
+Simarn,23,76,AI,NLP
+Rahul,23,98,AI,Neural Networks
+Manish,25,60,Web development,General
+Divya,23,99,AI,Computer version
+Sanjay,21,74,Web development,General
+Riya,20,95,IOT,Sensors
+Pooja,20,76,IOT,Ardunio
+Simarn,23,88,Data science,General
+Aarti,21,69,AI,NLP
+Divya,21,86,IOT,Sensors
+Divya,22,64,AI,Neural Networks
+Meena,23,84,AI,Neural Networks
+Aman,22,73,AI,NLP
+Riya,25,77,IOT,Sensors
+pooja,23,86,IOT,Sensors
+pooja,24,89,Cyber Security,Network Security
+Neha,21,78,Web development,General
+Sanjay,22,60,Cyber Security,Network Security
+Pooja,25,86,AI,NLP
+Vikas,25,87,Cyber Security,Network Security
+Raj,23,61,Cyber Security,Network Security
+Aman,20,83,IOT,Sensors
+Divya,20,90,IOT,Sensors
+Priya,22,74,Data science,General
+Manish,25,88,Cyber Security,Network Security
+mohan,25,97,AI,Neural Networks
+Raj,22,80,Cyber Security,Ethical
+Aman,25,88,IOT,Embeded System 
+Manish,20,67,Data science,General
+Vikas,25,89,Web development,General
+Rohit,24,80,AI,Computer version
+Pooja,21,75,Data science,General
+Aman,24,79,Data science,General
+Rohit,20,70,Data science,General
+Manish,20,60,Data science,General
+Pooja,23,62,AI,Computer version
+Senha,20,68,IOT,Sensors
+Pooja,23,65,Cyber Security,Network Security
+Pooja,20,71,IOT,Sensors
+Priya,20,68,Web development,
